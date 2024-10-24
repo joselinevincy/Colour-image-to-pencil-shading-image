@@ -1,1 +1,3 @@
-# Colour-image-to-pencil-shading-image
+COLOR IMAGE TO PENCIL SHADING IMAGE
+
+# STEP BY STEP PROCEDURE..
