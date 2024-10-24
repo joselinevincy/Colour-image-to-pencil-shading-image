@@ -2,6 +2,9 @@ COLOR IMAGE TO PENCIL SHADING IMAGE
 
 # STEP BY STEP PROCEDURE..
 
+MAKE SURE YOU HAVE OpenCv INSTALLED BY USING:
+(pip install opencv-python)
+
 # 1. cv2.cvtColor:
 converts the image to gray scale
 # 2. 255-gray_image:
